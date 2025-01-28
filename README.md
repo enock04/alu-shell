@@ -1,1 +1,1 @@
-working directory containing shell scripting
+working directory containing a shell script
