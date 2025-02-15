@@ -1,0 +1,2 @@
+#!/bin/bash
+print(*sorted([w for w, c in collections.Counter(sys.stdin.read().split()).items() if c == 1]), sep='\n')
